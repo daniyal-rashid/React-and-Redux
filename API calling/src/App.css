@@ -1,0 +1,15 @@
+.container{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin: auto;
+    padding:20px;;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.btn{
+    margin-left: 350px;
+    padding: 5px 10px;
+    outline: none;
+    font-weight: 500;
+    border-radius: 5px;
+}
